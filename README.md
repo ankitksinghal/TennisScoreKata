@@ -36,7 +36,7 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
         
         
  In order to run and deploy this application user needs follow below steps-       
-        ![]()
+        ![](https://github.com/AKS291405/TennisScoreKata/blob/master/command_dialog.png)
         
         
     
