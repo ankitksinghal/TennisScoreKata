@@ -38,7 +38,7 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
    
   ![Example command dialog](https://github.com/AKS291405/TennisScoreKata/blob/master/command_dialog.png)
         
-  ## Installing
+  ## Installing softwares to create dev setup
   In order to create setup for development or generation of jar file, please follow below steps -
   
     1) Download Java 8 from the Oracle’s Java official website 
@@ -60,7 +60,16 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
     15) Click on New button under System variables section to create PATH with value ex - %MAVEN_HOME%\bin
     16) Check maven version using command mvn -version at dos command prompt.
     
-    17) 
+  ### Installation and setup of STS  
+    1) Go to the STS download site (http://www.springsource.com/products/sts) and download the variant appropriate to the operating              system being used.
+    2) Unzip zipped binary folder to root directory ex - C:/.
+    3) To verify the installation, run the eclipse.exe executable in the unzipped directory and check that STS displays a welcome panel.           The first time there may be a short delay due to the initial set-up of indexes.
+    4) Once STS started, click Window > Preferences from the menu.
+    5) In the Preferences window, click Java > Compiler in the left panel.
+    6) In the right panel, set the Compiler compliance level to 1.8.
+    7) Click Apply. 
+
+
 
 
     
