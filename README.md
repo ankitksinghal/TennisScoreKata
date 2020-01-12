@@ -1,4 +1,4 @@
-# Tennis Scorring Kata
+# Tennis Scoring Kata
 
 This short and simple Kata should be performed using Test Driven Development (TDD).
 It is about implementing a simple tennis game.
@@ -15,4 +15,15 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
   2) The running score of each game is described in a manner peculiar to tennis: scores from zero to three points are described as “love”,      “fifteen”, “thirty”, and “forty” respectively.
   3) If at least three points have been scored by each player, and the scores are equal, the score is “deuce”.
   4) If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is        “advantage” for the player in the lead.
-
+  
+  ## Getting Started
+  
+  In order to run and deploy this application user needs follow below steps-
+  
+    1) Clone git repostitory in some local folder using below command run on cmder of bash git command prompt.
+        git pull https://github.com/AKS291405/TennisScoreKata.git
+    2) Open STS and import project as exiting maven project
+        
+        
+        
+    
