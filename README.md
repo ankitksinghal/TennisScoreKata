@@ -93,7 +93,7 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
   Design can be however further modified to use Java design patterns but since tennis score card has fixed 6 states that can be           implemented either switch case or enum.
   
   ## Versioning
-  We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]                       (https://github.com/your/project/tags). 
+  We use [SemVer](http://semver.org/) for versioning. 
   
   ## Authors
 
