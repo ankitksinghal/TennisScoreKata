@@ -30,7 +30,8 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
     6) Copy TennisKata-1.0-RELEASE.jar file generated in target folder to some local folder.
     7) Start dos command prompt and reach to copied jar folder location and run below java 
         command - Java -jar TennisKata-1.0-RELEASE.jar
-    8) One dialog will open in command prompt to enter player names of both players and scores. Once user enters the asked details,             system calculate match outcome based on the points entered for each player.
+    8) One dialog will open in command prompt to enter player names of both players and scores. Once user enters the asked details,
+        system calculate match outcome based on the points entered for each player.
         example -
         
     
