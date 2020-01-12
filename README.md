@@ -35,10 +35,34 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
      
   Example command dialog -
   
-  
+   
   ![Example command dialog](https://github.com/AKS291405/TennisScoreKata/blob/master/command_dialog.png)
         
-        
+  ## Installing
+  In order to create setup for development or generation of jar file, please follow below steps -
+  
+    1) Download Java 8 from the Oracle’s Java official website 
+        https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html.
+    2) Run exe using as administrator
+    3) Set environment variables for JAVA_HOME and PATH
+    4) Search for Advanced System Settings in the Windows Search box.
+    5) Click on Environmental varaibles from popup.
+    6) Click on New button under System variables section to create JAVA_HOME with value ex - C:\Program Files\Java\jdk1.8.0_x.
+    7) Click on New button under System variables section to create PATH with value ex - %JAVA_HOME%\bin
+    8) Check Java and java compiler version using command ex - Java -version, Javac -version, both versions should be Java 8.
+    
+    9) Now Download Maven from official website https://maven.apache.org/download.cgi
+    10) Unzip binary folder at certain location in system.
+    11) Set environment variables for MAVEN_HOME and PATH.
+    12) Now Search for Advanced System Settings in the Windows Search box.
+    13) Click on Environmental varaibles from popup.
+    14) Click on New button under System variables section to create MAVEN_HOME with value ex - C:\apache-maven-3.6.3.
+    15) Click on New button under System variables section to create PATH with value ex - %MAVEN_HOME%\bin
+    16) Check maven version using command mvn -version at dos command prompt.
+    
+    17) 
+
+
     
         
         
