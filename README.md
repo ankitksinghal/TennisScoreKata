@@ -32,11 +32,8 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
         command - Java -jar TennisKata-1.0-RELEASE.jar
     8) One dialog will open in command prompt to enter player names of both players and scores. Once user enters the asked details,
         system calculate match outcome based on the points entered for each player.
-        example - 
-        
-        
- In order to run and deploy this application user needs follow below steps-       
-        ![](https://github.com/AKS291405/TennisScoreKata/blob/master/command_dialog.png)
+      
+  ![Example command dialog](https://github.com/AKS291405/TennisScoreKata/blob/master/command_dialog.png)
         
         
     
