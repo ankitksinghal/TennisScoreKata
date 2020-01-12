@@ -21,14 +21,14 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
   In order to run and deploy this application user needs follow below steps-
   
     1) Clone git repostitory in some local folder using below command run on cmder of bash git command prompt.
-        git pull https://github.com/AKS291405/TennisScoreKata.git
+         git pull https://github.com/AKS291405/TennisScoreKata.git
     2) Open STS and import project as exiting maven project in STS, Setting up STS steps given in installation section.
     3) Right click imported project and go to maven -> update project.
     4) Right click again imported project and go to Run as -> maven clean to clean project.
     5) Right click again imported project and go to Run as -> maven install to install project to compile source code and generate jar            file in target folder.
     6) Copy TennisKata-1.0-RELEASE.jar file generated in target folder to some local folder.
-    7) Start dos command prompt and reach to copied jar folder location and run below java command -
-        Java -jar TennisKata-1.0-RELEASE.jar
+    7) Start dos command prompt and reach to copied jar folder location and run below java 
+        command - Java -jar TennisKata-1.0-RELEASE.jar
     8) One dialog will open in command prompt to enter player names of both players and scores. Once user enters the asked details,             system calculate match outcome based on the points entered for each player.
         example -
         
