@@ -33,7 +33,10 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
     8) One dialog will open in command prompt to enter player names of both players and scores. Once user enters the asked details,
         system calculate match outcome based on the points entered for each player.
         example - 
-        ![](https://github.com/AKS291405/TennisScoreKata/blob/master/command_dialog.png)
+        
+        
+ In order to run and deploy this application user needs follow below steps-       
+        ![]()
         
         
     
