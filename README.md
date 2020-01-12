@@ -76,13 +76,28 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
     9) In the Preferences window, click Maven > User Settings in the left panel.
     10) In the right panel, Modify User Settings to maven home setting.xml ex- C:\apache-maven-3.x.x\conf\settings.xml.
     11) Local Repository should be modified to localRepository set in setting.xml ex- C:\maven\repo
-    12) Click Apply
-
-
-
-
+    12) Click Apply.
     
-        
-        
-        
-    
+  ## Deployment
+  Follow steps given in section Getting Started.
+  
+  ## Built With
+  * [Maven](https://maven.apache.org/) - Dependency Management
+  
+  ## Running the tests
+  Open TestTennisGameScore.java in STS from impotred as wellas installed project as followed in getting started. Run tghis file by         clicking right test file and then go to Run As > JUnit Test Case. now all test cases should run and passed as well. Since TDD approach   followed, all test case scenarios were decided in advance.
+  
+  ## Code Style
+  Code design was based on spring boot core module and autowiring used for player classes and CommandLineRunner interface used to         implement to provide user inputs command line dialog for player name and scores for two players whose score outcome has to be           calculated. TDD approach is used and test cases were written before writing core logic for score calulator.
+  
+  Design can be however further modified to use Java design patterns but since tennis score card has fixed 6 states that can be           implemented either switch case or enum.
+  
+  ## Versioning
+  We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]                       (https://github.com/your/project/tags). 
+  
+  ## Authors
+
+  * **Ankit Singhal** - *Initial Assignment work*
+  
+  ## License
+  This project is developed under open source licensing, howver modification to this prohibited.
