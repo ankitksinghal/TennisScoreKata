@@ -33,7 +33,7 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
     8) One dialog will open in command prompt to enter player names of both players and scores. Once user enters the asked details,
         system calculate match outcome based on the points entered for each player.
         example - 
-        ![Example command prompt dialog](/command_dialog.png)
+        ![](https://github.com/AKS291405/TennisScoreKata/blob/master/command_dialog.png)
         
         
     
