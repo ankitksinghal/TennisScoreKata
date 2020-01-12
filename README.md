@@ -25,7 +25,8 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
     2) Open STS and import project as exiting maven project in STS, Setting up STS steps given in installation section.
     3) Right click imported project and go to maven -> update project.
     4) Right click again imported project and go to Run as -> maven clean to clean project.
-    5) Right click again imported project and go to Run as -> maven install to install project to compile source code and generate jar            file in target folder.
+    5) Right click again imported project and go to Run as -> maven install to install project to compile source code and generate jar
+        file in target folder.
     6) Copy TennisKata-1.0-RELEASE.jar file generated in target folder to some local folder.
     7) Start dos command prompt and reach to copied jar folder location and run below java 
         command - Java -jar TennisKata-1.0-RELEASE.jar
