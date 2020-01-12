@@ -72,7 +72,11 @@ Alternate description of the rules per Wikipedia ( http://en.wikipedia.org/wiki/
     5) In the Preferences window, click Java > Compiler in the left panel.
     6) In the right panel, set the Compiler compliance level to 1.8.
     7) Click Apply.
-    8) 
+    8) Now set Maven path in STS, click Window > Preferences from the menu.
+    9) In the Preferences window, click Maven > User Settings in the left panel.
+    10) In the right panel, Modify User Settings to maven home setting.xml ex- C:\apache-maven-3.x.x\conf\settings.xml.
+    11) Local Repository should be modified to localRepository set in setting.xml ex- C:\maven\repo
+    12) Click Apply
 
 
 
